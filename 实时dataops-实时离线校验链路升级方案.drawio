@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T07:24:44.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GCG6fUT2PBpy2Mqld4UR" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:25:32.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4l2qgxqGIoJDIqFViBy3" version="21.0.6" type="github" pages="2">
   <diagram name="第 1 页" id="pXarTRrzwP3LyzhYJySG">
-    <mxGraphModel dx="1306" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,14 +538,19 @@
         <mxCell id="fWXa-KvSaz-WQMokIyqP-84" value="原始上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="685" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWXa-KvSaz-WQMokIyqP-85" value="实时数据ETL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="401" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="fWXa-KvSaz-WQMokIyqP-86" value="原始上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1060" y="685" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWXa-KvSaz-WQMokIyqP-87" value="实时数据ETL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="410" width="90" height="30" as="geometry" />
+        <mxCell id="yZf450utHZlKMJcBBaN6-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=107.05882352941177;endSize=22.494117647058825;width=76.47058823529412;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="401" as="sourcePoint" />
+            <mxPoint x="1075" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yZf450utHZlKMJcBBaN6-2" value="升级方案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="yZf450utHZlKMJcBBaN6-1">
+          <mxGeometry x="-0.0476" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
