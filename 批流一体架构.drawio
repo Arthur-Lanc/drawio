@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T08:16:56.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="muJ2bG7nyqL5PezB16IR" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-15T08:46:07.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="XRsPaE3lPc7_heOrROjP" version="21.0.6" type="github" pages="3">
   <diagram id="g2_v9cT1EzaR5zWpqAP8" name="架构初版">
     <mxGraphModel dx="1306" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,7 +248,7 @@
         <mxCell id="B_v7CjqATC_TLTnjSGNu-7" value="DWD" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="127" y="73" width="643" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="B_v7CjqATC_TLTnjSGNu-8" value="实时数据SLA链路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="B_v7CjqATC_TLTnjSGNu-8" value="批流一体校验链路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-50" y="341" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_v7CjqATC_TLTnjSGNu-9" value="离线基础数仓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
