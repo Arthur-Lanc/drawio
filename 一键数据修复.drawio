@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T12:35:51.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="36xRVVrArCAyBIXBxKmr" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T14:15:13.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oDGKj8_5D5bYiGNgCO_H" version="22.1.0" type="github">
   <diagram name="第 1 页" id="TQEL2tQDjQeKKQsluZ9l">
     <mxGraphModel dx="1754" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,17 +88,18 @@
         <mxCell id="3MJ8_XQxyOGIcYYKC2xZ-38" value="确认数据问题" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="390" y="509" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MJ8_XQxyOGIcYYKC2xZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" source="3MJ8_XQxyOGIcYYKC2xZ-40" target="3MJ8_XQxyOGIcYYKC2xZ-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3MJ8_XQxyOGIcYYKC2xZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" source="3MJ8_XQxyOGIcYYKC2xZ-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="539" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3MJ8_XQxyOGIcYYKC2xZ-40" value="点击一键修复按钮" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="570" y="509" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IZcwnMjonHAYXcCHMbNp-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="3MJ8_XQxyOGIcYYKC2xZ-42" target="IZcwnMjonHAYXcCHMbNp-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3MJ8_XQxyOGIcYYKC2xZ-42" value="自动拉起修复&amp;amp;校验任务" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="770" y="509" width="120" height="60" as="geometry" />
+        <mxCell id="IZcwnMjonHAYXcCHMbNp-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" target="IZcwnMjonHAYXcCHMbNp-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="569" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3MJ8_XQxyOGIcYYKC2xZ-47" value="确认修复✅" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="390" y="629" width="120" height="60" as="geometry" />
@@ -164,13 +165,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IZcwnMjonHAYXcCHMbNp-55" value="重新拉起校验任务" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="770" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="629" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IZcwnMjonHAYXcCHMbNp-58" value="旧方案" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1190" y="150" width="70" height="260" as="geometry" />
         </mxCell>
         <mxCell id="IZcwnMjonHAYXcCHMbNp-59" value="新方案" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1190" y="450" width="70" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="IZcwnMjonHAYXcCHMbNp-60" value="等待修复任务执行完成" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="770" y="509" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
