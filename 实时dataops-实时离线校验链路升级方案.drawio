@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T03:14:50.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Goi2OpcC1eFrPtWciAqq" version="22.1.12" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-28T03:18:03.153Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ROGioq9LQNTUxzVQoDxE" version="22.1.12" type="github" pages="3">
   <diagram name="方案升级" id="pXarTRrzwP3LyzhYJySG">
     <mxGraphModel dx="2074" dy="2205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -613,7 +613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="glhAknmnohWpDmkbPbKz" name="流批一体框架">
-    <mxGraphModel dx="2074" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="2205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -749,7 +749,7 @@
         <mxCell id="CwWMwgX_BO-OrxLcw5lP-46" value="datagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="348.75" width="90" height="31.25" as="geometry" />
         </mxCell>
-        <mxCell id="CwWMwgX_BO-OrxLcw5lP-49" value="Flink Batch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CwWMwgX_BO-OrxLcw5lP-49" value="&lt;b&gt;Flink Batch&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1350" y="90" width="70" height="310" as="geometry" />
         </mxCell>
         <mxCell id="CwWMwgX_BO-OrxLcw5lP-50" value="OVAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -798,6 +798,21 @@
               <mxPoint x="1385" y="341" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bFYfvTzymNUSSnE-Xit--9" value="Oceanus 平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-40" width="1070" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bFYfvTzymNUSSnE-Xit--10" value="实时ETL管道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-80" width="1070" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFYfvTzymNUSSnE-Xit--11" value="数据湖（iceberg）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-120" width="1070" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFYfvTzymNUSSnE-Xit--12" value="实时湖仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-160" width="1070" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFYfvTzymNUSSnE-Xit--13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="1090" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
