@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T15:07:50.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ajctSpvZ7nQTCREbSWcv" version="22.1.16" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-01T15:09:27.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YRlboiKfMHfrd5t1Ttp9" version="22.1.16" type="github" pages="3">
   <diagram name="方案升级" id="pXarTRrzwP3LyzhYJySG">
     <mxGraphModel dx="1242" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1043,7 +1043,7 @@
         <mxCell id="fWpCZtv05iIiqQBuL4QJ-84" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;数据rebalance&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="858.5" y="918" width="101.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWpCZtv05iIiqQBuL4QJ-86" value="mysql" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="fWpCZtv05iIiqQBuL4QJ-86" value="mysql" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;fillColor=#666666;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="960" y="1700" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fWpCZtv05iIiqQBuL4QJ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4baG2Wbye7L7SrsXhAa6-30" target="4baG2Wbye7L7SrsXhAa6-30">
