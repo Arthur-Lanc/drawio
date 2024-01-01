@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T04:33:22.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CS31nXA5JnK8rDoFV1C1" version="22.1.16" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-01T04:34:16.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1E93ldf7yknArxSOYDzE" version="22.1.16" type="github" pages="3">
   <diagram name="方案升级" id="pXarTRrzwP3LyzhYJySG">
     <mxGraphModel dx="1242" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -890,20 +890,14 @@
         <mxCell id="4baG2Wbye7L7SrsXhAa6-30" value="流批SLA告警" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="980" width="101" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4baG2Wbye7L7SrsXhAa6-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4baG2Wbye7L7SrsXhAa6-31" target="4baG2Wbye7L7SrsXhAa6-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4baG2Wbye7L7SrsXhAa6-31" value="Sql标准化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1060" width="110" height="50" as="geometry" />
+        <mxCell id="4baG2Wbye7L7SrsXhAa6-31" value="指标校验" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1060" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4baG2Wbye7L7SrsXhAa6-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4baG2Wbye7L7SrsXhAa6-45" target="4baG2Wbye7L7SrsXhAa6-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4baG2Wbye7L7SrsXhAa6-45" value="动态表注册" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="469" y="820" width="250" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4baG2Wbye7L7SrsXhAa6-60" value="指标校验" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="544.5" y="1140" width="101" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
