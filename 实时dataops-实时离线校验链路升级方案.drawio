@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T14:15:58.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BLQtLD4Epm6gWUKjuEst" version="22.1.16" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-01T14:18:05.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="x4d3tlq3pvveTmXx9z1a" version="22.1.16" type="github" pages="3">
   <diagram name="方案升级" id="pXarTRrzwP3LyzhYJySG">
     <mxGraphModel dx="1242" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -895,25 +895,25 @@
           <mxGeometry x="249" y="1140" width="101" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fWpCZtv05iIiqQBuL4QJ-2" value="1" style="strokeWidth=1;shadow=1;dashed=0;align=center;html=1;shape=mxgraph.mockup.misc.ruler2;dx=100;rulerOrient=up;unitSize=10;fontColor=#999999;spacingLeft=96;align=left;verticalAlign=middle;spacingBottom=0;spacingTop=10;spacingRight=0;spacing=0;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="930" width="350" height="30" as="geometry" />
+          <mxGeometry x="1070" y="930" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWpCZtv05iIiqQBuL4QJ-3" value="1" style="strokeWidth=1;shadow=1;dashed=0;align=center;html=1;shape=mxgraph.mockup.misc.ruler2;dx=100;rulerOrient=up;unitSize=10;fontColor=#999999;spacingLeft=96;align=left;verticalAlign=middle;spacingBottom=0;spacingTop=10;spacingRight=0;spacing=0;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="980" width="350" height="30" as="geometry" />
+          <mxGeometry x="1070" y="980" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWpCZtv05iIiqQBuL4QJ-5" value="&lt;b&gt;ftime&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="988" y="950" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fWpCZtv05iIiqQBuL4QJ-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="800" width="20" height="200" as="geometry" />
+          <mxGeometry x="1358.75" y="800" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="fWpCZtv05iIiqQBuL4QJ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="920" width="40" height="100" as="geometry" />
+          <mxGeometry x="1251" y="915" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fWpCZtv05iIiqQBuL4QJ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="915" width="40" height="100" as="geometry" />
+          <mxGeometry x="1450" y="915" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fWpCZtv05iIiqQBuL4QJ-10" value="&lt;b&gt;ftime&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1232.5" y="860" width="77" height="30" as="geometry" />
+        <mxCell id="fWpCZtv05iIiqQBuL4QJ-10" value="从ftime标尺中按时间采样，基于想通过的尺度，&lt;br&gt;我们可以在不影响指标校验结果的前提下尽可能的缩小计算样本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="860" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
