@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T11:40:46.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SfMNjaYvdU0vx0sc2tUM" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-21T11:41:49.204Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oqC2dOSy-WqSHJjBKbVY" version="22.1.18" type="github" pages="3">
   <diagram name="方案升级" id="pXarTRrzwP3LyzhYJySG">
     <mxGraphModel dx="1242" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1188,10 +1188,10 @@
           <mxGeometry x="1540" y="-1.25" width="1070" height="450" as="geometry" />
         </mxCell>
         <mxCell id="0GpXSbhDRe7VHPsuznAb-9" value="&lt;b&gt;实时生产链路&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1670" y="140" width="310" height="200" as="geometry" />
+          <mxGeometry x="1670" y="140" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0GpXSbhDRe7VHPsuznAb-113" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FF0000;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1990" y="27" width="460" height="320" as="geometry" />
+          <mxGeometry x="1980" y="27" width="470" height="320" as="geometry" />
         </mxCell>
         <mxCell id="0GpXSbhDRe7VHPsuznAb-12" value="Flink SQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1540" y="460" width="1070" height="30" as="geometry" />
@@ -1321,6 +1321,12 @@
               <mxPoint x="2075" y="341" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wVcaKk86tvnl3NLy2d_0-114" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="1" source="0GpXSbhDRe7VHPsuznAb-111" target="0GpXSbhDRe7VHPsuznAb-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVcaKk86tvnl3NLy2d_0-115" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="1" source="0GpXSbhDRe7VHPsuznAb-111" target="0GpXSbhDRe7VHPsuznAb-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0GpXSbhDRe7VHPsuznAb-111" value="SQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="2035.75" y="191.19" width="78.5" height="41.25" as="geometry" />
