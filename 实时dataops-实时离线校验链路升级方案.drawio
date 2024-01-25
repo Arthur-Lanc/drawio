@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T13:50:28.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wVpv9bBEe7GChbuqw6UK" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-25T02:53:44.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-PFiziGBuuES1sf3jsEM" version="22.1.18" type="github" pages="3">
   <diagram name="方案升级" id="pXarTRrzwP3LyzhYJySG">
     <mxGraphModel dx="1242" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -613,7 +613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="glhAknmnohWpDmkbPbKz" name="流批一体框架">
-    <mxGraphModel dx="1728" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2072,7 +2072,7 @@
         <mxCell id="wVcaKk86tvnl3NLy2d_0-188" value="实时湖仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2680" y="-150" width="1070" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wVcaKk86tvnl3NLy2d_0-189" value="&lt;b&gt;一站式实时研发框架&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wVcaKk86tvnl3NLy2d_0-189" value="&lt;b&gt;批流融合架构&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3151" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wVcaKk86tvnl3NLy2d_0-190" value="生产、校验、修复统一的ETL管道" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -2094,7 +2094,7 @@
           <mxGeometry x="3605" y="30" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wVcaKk86tvnl3NLy2d_0-200" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2820" y="287.5" width="763" height="58.49" as="geometry" />
+          <mxGeometry x="2820" y="287.5" width="780" height="58.49" as="geometry" />
         </mxCell>
         <mxCell id="wVcaKk86tvnl3NLy2d_0-201" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="3610" y="90" width="126" height="260" as="geometry" />
@@ -2174,13 +2174,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wVcaKk86tvnl3NLy2d_0-248" value="动态表注册" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3225" y="297" width="83.5" height="41.74" as="geometry" />
+          <mxGeometry x="3236.5" y="296.63" width="83.5" height="41.74" as="geometry" />
         </mxCell>
         <mxCell id="wVcaKk86tvnl3NLy2d_0-249" value="数据采样" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3331.86" y="295.87" width="87" height="41.74" as="geometry" />
+          <mxGeometry x="3325.0000000000005" y="296.63" width="87" height="41.74" as="geometry" />
         </mxCell>
         <mxCell id="wVcaKk86tvnl3NLy2d_0-250" value="SLA告警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3441.83" y="296.26" width="87" height="41.74" as="geometry" />
+          <mxGeometry x="3415.97" y="295.87" width="87" height="41.74" as="geometry" />
+        </mxCell>
+        <mxCell id="wVcaKk86tvnl3NLy2d_0-252" value="无极接口服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3143" y="296.26" width="87" height="41.74" as="geometry" />
+        </mxCell>
+        <mxCell id="wVcaKk86tvnl3NLy2d_0-253" value="Tdw工具类" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3508.25" y="295.63" width="87" height="41.74" as="geometry" />
         </mxCell>
         <mxCell id="wVcaKk86tvnl3NLy2d_0-212" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.486;exitY=0.042;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=3;exitPerimeter=0;" edge="1" parent="1" source="wVcaKk86tvnl3NLy2d_0-172" target="wVcaKk86tvnl3NLy2d_0-215">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
